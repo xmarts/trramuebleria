@@ -7,3 +7,6 @@
 [submodule "deltatech-sotck-negative"]
 	path = deltatech-sotck-negative
 	url = git@github.com:xmarts/deltatech-sotck-negative.git
+[submodule "product-barcode"]
+	path = product-barcode
+	url = git@github.com:xmarts/product-barcode.git
