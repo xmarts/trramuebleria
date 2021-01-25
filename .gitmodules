@@ -4,3 +4,6 @@
 [submodule "addenda-liverpool"]
 	path = addenda-liverpool
 	url = git@github.com:xmarts/addenda-liverpool.git
+[submodule "product-barcode"]
+	path = product-barcode
+	url = git@github.com:xmarts/product-barcode.git
