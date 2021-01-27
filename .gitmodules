@@ -10,3 +10,6 @@
 [submodule "deltatech-sotck-negative"]
 	path = deltatech-sotck-negative
 	url = git@github.com:xmarts/deltatech-sotck-negative.git
+[submodule "xmarts_financial_factor"]
+	path = xmarts_financial_factor
+	url = git@github.com:xmarts/xmarts_financial_factor.git
