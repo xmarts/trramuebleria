@@ -10,3 +10,6 @@
 [submodule "product-barcode"]
 	path = product-barcode
 	url = git@github.com:xmarts/product-barcode.git
+[submodule "sale-discount-limit"]
+	path = sale-discount-limit
+	url = git@github.com:xmarts/sale-discount-limit.git
