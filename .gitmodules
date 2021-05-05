@@ -13,3 +13,6 @@
 [submodule "xmarts_financial_factor"]
 	path = xmarts_financial_factor
 	url = git@github.com:xmarts/xmarts_financial_factor.git
+[submodule "account-multi-pay"]
+	path = account-multi-pay
+	url = git@github.com:xmarts/account-multi-pay.git
